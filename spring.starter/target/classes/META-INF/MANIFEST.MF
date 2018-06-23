@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: java brains
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Himanshu.Khurana
+Implementation-Vendor-Id: org.himanshu..springboot.starter
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/himanshu.sta
+ rter/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
